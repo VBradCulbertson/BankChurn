@@ -4,7 +4,7 @@
 # Bank Churn
 
 Customer churn is an important business metric as lost customers yield lost revenue. This dataset was pulled from Kaggle and is publicly available. 
-10,000 rows, 12 columns of account churn data from ABC Bank. Can churn be predicted from the captured data? What insights can be drawn to guide decision-makers' efforts to reduce customer churn?
+10,000 rows, 12 columns of account churn data from ABC Bank. Can churn be predicted from the captured data? What insights can be drawn to guide decision-makers' efforts to reduce customer churn? Analysis leads to the manipulation of decision thresholds for predictions to capture true positives at the cost of false positives being added. Missing potential churn customers was defined as more important to the business than capturing non-churn customers in the prediction. More detail is available in the summary report and notebook.
 
 # Files
 
