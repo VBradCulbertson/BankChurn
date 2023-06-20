@@ -8,7 +8,7 @@ Customer churn is an important business metric as lost customers yield lost reve
 
 # Files
 
-Summary Report.pdf - Written report with visualizations.
+Bank Churn.pdf - Written report with visualizations.
 
 requirements.txt - Conda list of all packages used in my base environment at the time.
 
